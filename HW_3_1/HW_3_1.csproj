@@ -43,6 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="1F.cs" />
+    <Compile Include="2F.cs" />
+    <Compile Include="3F.cs" />
+    <Compile Include="4F.cs" />
+    <Compile Include="5F.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
